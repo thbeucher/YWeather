@@ -50,17 +50,20 @@ public class Test {
         try{
         		long start;
         		start = System.nanoTime();
+        		
         		//-------------------------------------//
         		//Récupération des destinations du jour//
         		//-------------------------------------//
+        		
 	        	FileWriter fw = new FileWriter("voldujour",false);
 	        	BufferedWriter output = new BufferedWriter(fw);
 	        	//On se connecte au site et on charge le document html
 	        	Document doc = Jsoup.connect("http://www.strasbourg.aeroport.fr/destinations/vols").get();
 	        	//On récupère dans ce document la premiere balise ayant comme nom td et pour attribut class="center"
 	        	int i = 1;
-	        	for(i=1;i<150;i+=5){
-	        	Element element= doc.select("td .center").get(i);
+	        	int el = doc.select("td .center").size();
+	        	for(i=1;i<el;i+=5){
+	        	Element element = doc.select("td .center").get(i);
 	        	String element1 =  element.text();
 	        	String[] tab = element1.split("\\s");
 	        	output.write(tab[0] + "\r\n");
@@ -68,37 +71,45 @@ public class Test {
 	        	output.flush();
 	        	}
 	        	output.close();
+	        	
 	        	//----------------------------------------------------//
-	        	//Récupération de la météo liée à chaques destinations//
+	        	//Récupération de la météo liée à chaque destinations//
 	        	//----------------------------------------------------//
+	        	
 	        	String chaine = "";
 	        	YWeather weather = new YWeather();
 	        	InputStream ips=new FileInputStream("voldujour"); 
 				InputStreamReader ipsr=new InputStreamReader(ips);
 				BufferedReader br=new BufferedReader(ipsr);
 				String ligne;
-				FileWriter fw1 = new FileWriter("VoldujourEtMeteo",true);
+				FileWriter fw1 = new FileWriter("VoldujourEtMeteo",false);
 				BufferedWriter output1 = new BufferedWriter(fw1);
 				while ((ligne=br.readLine())!=null){
 					System.out.println(ligne);
 					chaine+=ligne+"\n";
 					WeatherInfo info = weather.getWeatherForPlace(ligne, Units.TEMP_C);
-					output1.write(ligne + "--" + info.getItem().getCondtition().toString() + "\r\n");
+					output1.write(ligne + "--" + info.getItem().getCondtition().getConditionByCode(info.getItem().getCondtition().getCode()) + "--" + info.getItem().getCondtition().getTemp() + "\r\n");
 					output1.flush();
 				}
 				br.close();
 				output1.close();
+				
 				//Calcul du temps d'execution du programme
 				long duree = System.nanoTime() - start;
 				duree = duree/1000000000;
 				System.out.println(duree + "s");
         	 }
-        	 catch(MalformedURLException e){
-        	 System.out.println(e);
-        	 }
-        	 catch(IOException e){
-        	 System.out.println(e);
-        	 }
+        
+        	//--------------------------------------------//
+        	//gestion des différentes exceptions possibles//
+        	//--------------------------------------------//
+        
+	        catch(MalformedURLException e){
+	        System.out.println(e);
+	        }
+        	catch(IOException e){
+        	System.out.println(e);
+        	}
         	catch(NumberFormatException ex){
         		System.out.println(ex);
         	}

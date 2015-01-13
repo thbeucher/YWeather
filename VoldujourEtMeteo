@@ -1,98 +1,34 @@
-BRUXELLES--Condtition [text=Mostly Cloudy/Windy, code=28, temp=9, date=Tue Jan 13 10:19:00 CET 2015]
-NICE--Condtition [text=Mostly Cloudy, code=28, temp=7, date=Tue Jan 13 10:30:00 CET 2015]
-TOULOUSE--Condtition [text=Fair, code=34, temp=6, date=Tue Jan 13 10:30:00 CET 2015]
-AMSTERDAM--Condtition [text=Partly Cloudy, code=30, temp=9, date=Tue Jan 13 09:53:00 CET 2015]
-BRUXELLES--Condtition [text=Mostly Cloudy/Windy, code=28, temp=9, date=Tue Jan 13 10:19:00 CET 2015]
-NICE--Condtition [text=Mostly Cloudy, code=28, temp=7, date=Tue Jan 13 10:30:00 CET 2015]
-TOULOUSE--Condtition [text=Fair, code=34, temp=6, date=Tue Jan 13 10:30:00 CET 2015]
-AMSTERDAM--Condtition [text=Partly Cloudy, code=30, temp=9, date=Tue Jan 13 10:23:00 CET 2015]
-BRUXELLES--Condtition [text=Mostly Cloudy, code=28, temp=8, date=Tue Jan 13 10:49:00 CET 2015]
-NICE--Condtition [text=Mostly Cloudy, code=28, temp=8, date=Tue Jan 13 11:00:00 CET 2015]
-TOULOUSE--Condtition [text=Fair, code=34, temp=8, date=Tue Jan 13 11:00:00 CET 2015]
-AMSTERDAM--Condtition [text=Mostly Cloudy, code=28, temp=9, date=Tue Jan 13 10:55:00 CET 2015]
-PARIS--Condtition [text=Cloudy, code=26, temp=8, date=Tue Jan 13 11:00:00 CET 2015]
-LYON--Condtition [text=Fair/Windy, code=34, temp=12, date=Tue Jan 13 11:00:00 CET 2015]
-PORTO--Condtition [text=Mostly Cloudy, code=28, temp=12, date=Tue Jan 13 11:00:00 CET 2015]
-NANTES--Condtition [text=Light Rain, code=11, temp=12, date=Tue Jan 13 11:00:00 CET 2015]
-BORDEAUX--Condtition [text=Fair, code=34, temp=13, date=Tue Jan 13 11:00:00 CET 2015]
-BRUXELLES--Condtition [text=Mostly Cloudy, code=28, temp=8, date=Tue Jan 13 10:49:00 CET 2015]
-MARSEILLE--Condtition [text=Mostly Cloudy, code=28, temp=14, date=Tue Jan 13 11:00:00 CET 2015]
-LYON--Condtition [text=Fair/Windy, code=34, temp=12, date=Tue Jan 13 11:00:00 CET 2015]
-MADRID--Condtition [text=Sunny, code=32, temp=2, date=Tue Jan 13 11:00:00 CET 2015]
-AMSTERDAM--Condtition [text=Mostly Cloudy, code=28, temp=9, date=Tue Jan 13 10:55:00 CET 2015]
-PARIS--Condtition [text=Cloudy, code=26, temp=8, date=Tue Jan 13 11:00:00 CET 2015]
-PRAGUE--Condtition [text=Fair, code=34, temp=9, date=Tue Jan 13 11:00:00 CET 2015]
-NANTES--Condtition [text=Light Rain, code=11, temp=12, date=Tue Jan 13 11:00:00 CET 2015]
-LILLE--Condtition [text=Light Rain/Windy, code=11, temp=9, date=Tue Jan 13 11:00:00 CET 2015]
-NANTES--Condtition [text=Light Rain, code=11, temp=12, date=Tue Jan 13 11:00:00 CET 2015]
-AMSTERDAM--Condtition [text=Mostly Cloudy, code=28, temp=9, date=Tue Jan 13 10:55:00 CET 2015]
-LYON--Condtition [text=Fair/Windy, code=34, temp=12, date=Tue Jan 13 11:00:00 CET 2015]
-BORDEAUX--Condtition [text=Fair, code=34, temp=13, date=Tue Jan 13 11:00:00 CET 2015]
-LILLE--Condtition [text=Light Rain/Windy, code=11, temp=9, date=Tue Jan 13 11:00:00 CET 2015]
-PARIS--Condtition [text=Cloudy, code=26, temp=8, date=Tue Jan 13 11:00:00 CET 2015]
-BRUXELLES--Condtition [text=Mostly Cloudy, code=28, temp=8, date=Tue Jan 13 10:49:00 CET 2015]
-NICE--Condtition [text=Mostly Cloudy, code=28, temp=8, date=Tue Jan 13 11:00:00 CET 2015]
-TOULOUSE--Condtition [text=Fair, code=34, temp=8, date=Tue Jan 13 11:00:00 CET 2015]
-AMSTERDAM--Condtition [text=Mostly Cloudy, code=28, temp=9, date=Tue Jan 13 10:55:00 CET 2015]
-PARIS--Condtition [text=Cloudy, code=26, temp=8, date=Tue Jan 13 11:00:00 CET 2015]
-LYON--Condtition [text=Fair/Windy, code=34, temp=12, date=Tue Jan 13 11:00:00 CET 2015]
-BRUXELLES--Condtition [text=Mostly Cloudy, code=28, temp=8, date=Tue Jan 13 10:49:00 CET 2015]
-NICE--Condtition [text=Mostly Cloudy, code=28, temp=8, date=Tue Jan 13 11:00:00 CET 2015]
-TOULOUSE--Condtition [text=Fair, code=34, temp=8, date=Tue Jan 13 11:00:00 CET 2015]
-AMSTERDAM--Condtition [text=Mostly Cloudy, code=28, temp=9, date=Tue Jan 13 10:55:00 CET 2015]
-PARIS--Condtition [text=Cloudy, code=26, temp=8, date=Tue Jan 13 11:00:00 CET 2015]
-LYON--Condtition [text=Fair/Windy, code=34, temp=12, date=Tue Jan 13 11:00:00 CET 2015]
-PORTO--Condtition [text=Mostly Cloudy, code=28, temp=12, date=Tue Jan 13 10:30:00 CET 2015]
-NANTES--Condtition [text=Light Rain, code=11, temp=12, date=Tue Jan 13 11:00:00 CET 2015]
-BORDEAUX--Condtition [text=Fair, code=34, temp=13, date=Tue Jan 13 11:00:00 CET 2015]
-BRUXELLES--Condtition [text=Mostly Cloudy, code=28, temp=8, date=Tue Jan 13 10:49:00 CET 2015]
-MARSEILLE--Condtition [text=Mostly Cloudy, code=28, temp=14, date=Tue Jan 13 11:00:00 CET 2015]
-LYON--Condtition [text=Fair/Windy, code=34, temp=12, date=Tue Jan 13 11:00:00 CET 2015]
-MADRID--Condtition [text=Sunny, code=32, temp=2, date=Tue Jan 13 11:00:00 CET 2015]
-AMSTERDAM--Condtition [text=Mostly Cloudy, code=28, temp=9, date=Tue Jan 13 10:55:00 CET 2015]
-PARIS--Condtition [text=Cloudy, code=26, temp=8, date=Tue Jan 13 11:00:00 CET 2015]
-PRAGUE--Condtition [text=Fair, code=34, temp=9, date=Tue Jan 13 11:00:00 CET 2015]
-NANTES--Condtition [text=Light Rain, code=11, temp=12, date=Tue Jan 13 11:00:00 CET 2015]
-LILLE--Condtition [text=Light Rain/Windy, code=11, temp=9, date=Tue Jan 13 11:00:00 CET 2015]
-NANTES--Condtition [text=Light Rain, code=11, temp=12, date=Tue Jan 13 11:00:00 CET 2015]
-AMSTERDAM--Condtition [text=Mostly Cloudy, code=28, temp=9, date=Tue Jan 13 10:55:00 CET 2015]
-LYON--Condtition [text=Fair/Windy, code=34, temp=12, date=Tue Jan 13 11:00:00 CET 2015]
-BORDEAUX--Condtition [text=Fair, code=34, temp=13, date=Tue Jan 13 11:00:00 CET 2015]
-LILLE--Condtition [text=Light Rain/Windy, code=11, temp=9, date=Tue Jan 13 11:00:00 CET 2015]
-PARIS--Condtition [text=Cloudy, code=26, temp=8, date=Tue Jan 13 11:00:00 CET 2015]
-BRUXELLES--Condtition [text=Mostly Cloudy, code=28, temp=8, date=Tue Jan 13 10:49:00 CET 2015]
-NICE--Condtition [text=Mostly Cloudy, code=28, temp=8, date=Tue Jan 13 11:00:00 CET 2015]
-TOULOUSE--Condtition [text=Fair, code=34, temp=8, date=Tue Jan 13 11:00:00 CET 2015]
-AMSTERDAM--Condtition [text=Mostly Cloudy, code=28, temp=9, date=Tue Jan 13 10:55:00 CET 2015]
-PARIS--Condtition [text=Cloudy, code=26, temp=8, date=Tue Jan 13 11:00:00 CET 2015]
-LYON--Condtition [text=Fair/Windy, code=34, temp=12, date=Tue Jan 13 11:00:00 CET 2015]
-BRUXELLES--Condtition [text=Mostly Cloudy, code=28, temp=8, date=Tue Jan 13 10:49:00 CET 2015]
-NICE--Condtition [text=Mostly Cloudy, code=28, temp=8, date=Tue Jan 13 11:00:00 CET 2015]
-TOULOUSE--Condtition [text=Fair, code=34, temp=8, date=Tue Jan 13 11:00:00 CET 2015]
-AMSTERDAM--Condtition [text=Mostly Cloudy, code=28, temp=9, date=Tue Jan 13 10:55:00 CET 2015]
-PARIS--Condtition [text=Cloudy, code=26, temp=8, date=Tue Jan 13 11:00:00 CET 2015]
-LYON--Condtition [text=Fair/Windy, code=34, temp=12, date=Tue Jan 13 11:00:00 CET 2015]
-PORTO--Condtition [text=Mostly Cloudy, code=28, temp=12, date=Tue Jan 13 10:30:00 CET 2015]
-NANTES--Condtition [text=Light Rain, code=11, temp=12, date=Tue Jan 13 11:00:00 CET 2015]
-BORDEAUX--Condtition [text=Fair, code=34, temp=13, date=Tue Jan 13 11:00:00 CET 2015]
-BRUXELLES--Condtition [text=Mostly Cloudy, code=28, temp=8, date=Tue Jan 13 10:49:00 CET 2015]
-MARSEILLE--Condtition [text=Mostly Cloudy, code=28, temp=14, date=Tue Jan 13 11:00:00 CET 2015]
-LYON--Condtition [text=Fair/Windy, code=34, temp=12, date=Tue Jan 13 11:00:00 CET 2015]
-MADRID--Condtition [text=Sunny, code=32, temp=2, date=Tue Jan 13 11:00:00 CET 2015]
-AMSTERDAM--Condtition [text=Mostly Cloudy, code=28, temp=9, date=Tue Jan 13 10:55:00 CET 2015]
-PARIS--Condtition [text=Cloudy, code=26, temp=8, date=Tue Jan 13 11:00:00 CET 2015]
-PRAGUE--Condtition [text=Fair, code=34, temp=9, date=Tue Jan 13 11:00:00 CET 2015]
-NANTES--Condtition [text=Light Rain, code=11, temp=12, date=Tue Jan 13 11:00:00 CET 2015]
-LILLE--Condtition [text=Light Rain/Windy, code=11, temp=9, date=Tue Jan 13 11:00:00 CET 2015]
-NANTES--Condtition [text=Light Rain, code=11, temp=12, date=Tue Jan 13 11:00:00 CET 2015]
-AMSTERDAM--Condtition [text=Mostly Cloudy, code=28, temp=9, date=Tue Jan 13 10:55:00 CET 2015]
-LYON--Condtition [text=Fair/Windy, code=34, temp=12, date=Tue Jan 13 11:00:00 CET 2015]
-BORDEAUX--Condtition [text=Fair, code=34, temp=13, date=Tue Jan 13 11:00:00 CET 2015]
-LILLE--Condtition [text=Light Rain/Windy, code=11, temp=9, date=Tue Jan 13 11:00:00 CET 2015]
-PARIS--Condtition [text=Cloudy, code=26, temp=8, date=Tue Jan 13 11:00:00 CET 2015]
-BRUXELLES--Condtition [text=Mostly Cloudy, code=28, temp=8, date=Tue Jan 13 10:49:00 CET 2015]
-NICE--Condtition [text=Mostly Cloudy, code=28, temp=8, date=Tue Jan 13 11:00:00 CET 2015]
-TOULOUSE--Condtition [text=Fair, code=34, temp=8, date=Tue Jan 13 11:00:00 CET 2015]
-AMSTERDAM--Condtition [text=Mostly Cloudy, code=28, temp=9, date=Tue Jan 13 10:55:00 CET 2015]
-PARIS--Condtition [text=Cloudy, code=26, temp=8, date=Tue Jan 13 11:00:00 CET 2015]
-LYON--Condtition [text=Fair/Windy, code=34, temp=12, date=Tue Jan 13 11:00:00 CET 2015]
+BORDEAUX--partly cloudy (day)--13
+BRUXELLES--showers--8
+MARSEILLE--partly cloudy (day)--14
+LYON--partly cloudy (day)--13
+MADRID--fair (day)--12
+AMSTERDAM--mostly cloudy (day)--7
+PARIS--showers--8
+PRAGUE--fair (day)--10
+NANTES--mostly cloudy (day)--11
+LILLE--mostly cloudy (day)--9
+NANTES--mostly cloudy (day)--11
+AMSTERDAM--mostly cloudy (day)--7
+LYON--partly cloudy (day)--13
+BORDEAUX--partly cloudy (day)--13
+LILLE--mostly cloudy (day)--9
+PARIS--showers--8
+BRUXELLES--showers--8
+NICE--mostly cloudy (day)--14
+TOULOUSE--fair (day)--14
+AMSTERDAM--mostly cloudy (day)--7
+PARIS--showers--8
+LYON--partly cloudy (day)--13
+PRAGUE--fair (day)--10
+NANTES--partly cloudy (day)--11
+BORDEAUX--partly cloudy (day)--13
+BRUXELLES--showers--8
+MARSEILLE--partly cloudy (day)--14
+LYON--partly cloudy (day)--13
+MADRID--fair (day)--12
+AMSTERDAM--mostly cloudy (day)--7
+PARIS--showers--8
+BRUXELLES--showers--8
+NANTES--partly cloudy (day)--11
+LILLE--mostly cloudy (day)--9
