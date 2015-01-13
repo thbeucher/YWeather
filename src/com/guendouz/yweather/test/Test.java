@@ -90,6 +90,11 @@ public class Test {
 					WeatherInfo info = weather.getWeatherForPlace(ligne, Units.TEMP_C);
 					output1.write(ligne + "--" + info.getItem().getCondtition().getConditionByCode(info.getItem().getCondtition().getCode()) + "--" + info.getItem().getCondtition().getTemp() + "\r\n");
 					output1.flush();
+					int code = info.getItem().getCondtition().getCode();
+					if(code == 32 || code == 33 || code == 34 || code == 36){
+						if(info.getItem().getCondtition().getTemp() >=20)
+						System.out.println("Il fait beau à " + ligne + " et il fait " + info.getItem().getCondtition().getTemp() + "°c, les vols vont suremennt être plein pour ces destinations");
+					}
 				}
 				br.close();
 				output1.close();
